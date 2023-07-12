@@ -5,7 +5,7 @@
 
 在网页中快捷键 `Ctrl + F` 即可搜索，搜索**博客名称**即可找到对应的**博客地址**和**源码下载地址**。
 
-NewTon：直接找个好code提升效率是我做过最正确的事情！
+Newton：直接找个好code提升效率是我做过最正确的事情！
 
 |      |                       名称                       |                             地址                              |                   源码资料下载                    |     备注     |
 |:-----|:----------------------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------:|:----------:|
@@ -24,10 +24,16 @@ NewTon：直接找个好code提升效率是我做过最正确的事情！
 | 0013 |MSP430 G2553 F5529 单片机 IIC OLED显示 DHT11 温湿度 串口发送 室内温湿度检测仪|https://qq742971636.blog.csdn.net/article/details/107502442 |  http://dt3.8tupian.net/2/28880a17b9990.pg3 |  2553单片机   |
 | 0014 |MSP430 G2553 F5529 单片机 IIC OLED显示 DHT11 温湿度 串口发送 室内温湿度检测仪|https://qq742971636.blog.csdn.net/article/details/107502442|  http://dt1.8tupian.net/2/28880a16b9990.pg3 |  5529单片机   |
 | 0015 |MSP430 MSP432P401R 单片机 HDC1080 温湿度传感器程序 串口发送|https://qq742971636.blog.csdn.net/article/details/121444386| http://dt2.8tupian.net/2/28880a18b9990.pg3                                             |            |
-| 0016 |MSP432 P401R 单片机 呼吸灯 PWM MCP 4725 DAC|https://qq742971636.blog.csdn.net/article/details/109363825|     http://dt2.8tupian.net/2/28880a19b9990.pg3    |            |
+| 0016 |MSP432 P401R 单片机 呼吸灯 PWM MCP 4725 DAC|https://qq742971636.blog.csdn.net/article/details/109363825|http://dt2.8tupian.net/2/28880a19b9990.pg3    |            |
 | 0017 |【单片机】MSP430单片机，msp430f5529，DHT11 温湿度检测仪，上限报警，单击双击判定，OLED|https://qq742971636.blog.csdn.net/article/details/131684551|   http://dt2.8tupian.net/2/28880a20b16800.pg3                          |            |
-| 0018 |||                                             |            |
-| 0019 |||                                             |            |
-| 0020 |||                                             |            |
-| 0021 |||                                             |            |
+| 0018 |MSP430F5529 单片机 倒车雷达 倒车警报系统 超声波模块读取|https://blog.csdn.net/x1131230123/article/details/109649680|http://dt4.8tupian.net/2/28880a21b16880.pg3||
+| 0019 |单片机 MSP430 G2553 F5529 超声波 检测原理 测距原理 SR04 串口|https://qq742971636.blog.csdn.net/article/details/107528311|http://dt3.8tupian.net/2/28880a22b9990.pg3|2553单片机|
+| 0020 |单片机 MSP430 G2553 F5529 超声波 检测原理 测距原理 SR04 串口|https://qq742971636.blog.csdn.net/article/details/107528311|http://dt2.8tupian.net/2/28880a23b9990.pg3|5529单片机|
+| 0021 |MSP430F5529，超声波，距离检测报警，倒车雷达，SR-04模块|https://blog.csdn.net/x1131230123/article/details/131689170|http://dt2.8tupian.net/2/28880a24b16880.pg3|            |
 | 0022 |||                                             |            |
+| 0023 |||                                             |            |
+| 0024 |||                                             |            |
+| 0025 |||                                             |            |
+| 0026 |||                                             |            |
+| 0027 |||                                             |            |
+
