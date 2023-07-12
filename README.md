@@ -30,7 +30,7 @@ Newton：直接找个好code提升效率是我做过最正确的事情！
 | 0019 |单片机 MSP430 G2553 F5529 超声波 检测原理 测距原理 SR04 串口|https://qq742971636.blog.csdn.net/article/details/107528311|http://dt3.8tupian.net/2/28880a22b9990.pg3|2553单片机|
 | 0020 |单片机 MSP430 G2553 F5529 超声波 检测原理 测距原理 SR04 串口|https://qq742971636.blog.csdn.net/article/details/107528311|http://dt2.8tupian.net/2/28880a23b9990.pg3|5529单片机|
 | 0021 |MSP430F5529，超声波，距离检测报警，倒车雷达，SR-04模块|https://blog.csdn.net/x1131230123/article/details/131689170|http://dt2.8tupian.net/2/28880a24b16880.pg3|            |
-| 0022 |||                                             |            |
+| 0022 |MSP430F5529单片，万年历，闹钟，数字时钟，温湿度dht11，蜂鸣器音乐|https://blog.csdn.net/x1131230123/article/details/131691662|http://dt3.8tupian.net/2/28880a25b19990.pg3|            |
 | 0023 |||                                             |            |
 | 0024 |||                                             |            |
 | 0025 |||                                             |            |
