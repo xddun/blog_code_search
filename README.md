@@ -7,6 +7,9 @@
 
 Newton：直接找个好code提升效率是我做过最正确的事情！
 
+我没有把所有代码放在这里，找不到的可以直接看本工程的 advertisement.txt 文件联系我。
+
+
 |      | 名称                                                        | 地址                                                          |                   源码资料下载                    | 备注        |
 |:-----|:----------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------------:|:----------|
 | 0001 | MSP430 F5529 单片机 温度报警器 温度显示报警 温度的测量与报警 OLED 显示            | https://qq742971636.blog.csdn.net/article/details/109644022 |  http://dt3.8tupian.net/2/28880a3b7000.pg3  |           |
@@ -44,13 +47,13 @@ Newton：直接找个好code提升效率是我做过最正确的事情！
 | 0033 |MSP432 P401R 单片机 矩阵键盘 贪吃蛇 OLED 代码 程序|https://blog.csdn.net/x1131230123/article/details/117756934|http://dt3.8tupian.net/2/28880a36b26880.pg3||
 | 0034 |MSP432 P401R 单片机 程序 TMP421 温度 MSP430F5529 Pocket kit板|https://blog.csdn.net/x1131230123/article/details/117887473|http://dt2.8tupian.net/2/28880a37b9990.pg3||
 | 0035 |MSP432 P401R 单片机 程序 MSP430F5529 Pocket kit板 OPT3001 光照强度 OLED|https://blog.csdn.net/x1131230123/article/details/117935528|	http://dt4.8tupian.net/2/28880a38b9990.pg3||
-| 0036 ||                                                             |||
-| 0037 ||                                                             |||
-| 0038 ||                                                             |||
-| 0039 ||                                                             |||
-| 0040 ||                                                             |||
-| 0041 ||                                                             |||
-| 0042 ||                                                             |||
+| 0036 |MSP430 G2553 单片机 口袋板 日历 时钟 闹钟 万年历 电子时钟 秒表显示|https://blog.csdn.net/x1131230123/article/details/112133463|http://dt4.8tupian.net/2/28880a39b26880.pg3||
+| 0037 |MSP430 F5529 单片机 OLED 音乐播放器 八音盒 蜂鸣器 音乐|https://blog.csdn.net/x1131230123/article/details/111413805|http://dt3.8tupian.net/2/28880a40b16880.pg3||
+| 0038 |MSP430 F5529 单片机 OLED 万年历 数字时钟|https://qq742971636.blog.csdn.net/article/details/111413727|http://dt1.8tupian.net/2/28880a41b9990.pg3||
+| 0039 |MSP430 F5529 单片机 OLED 密码锁 矩阵键盘|https://qq742971636.blog.csdn.net/article/details/111413765|http://dt1.8tupian.net/2/28880a42b16880.pg3||
+| 0040 |MSP430 F5529 单片机 OLED Picture to pixels Use bitmaps to tell a story|https://qq742971636.blog.csdn.net/article/details/111058501|	http://dt1.8tupian.net/2/28880a43b16880.pg3||
+| 0041 |MSP430F5529 单片机 声控灯 音乐频率 音乐喷泉|https://blog.csdn.net/x1131230123/article/details/109648585|http://dt1.8tupian.net/2/28880a44b9990.pg3||
+| 0042 |MSP430G2553 launchpad 口袋板 口袋实验平台 数字电子日历时钟设计 秒表 闹钟 整点报时 万年历 电子时钟|https://blog.csdn.net/x1131230123/article/details/107321036|http://dt3.8tupian.net/2/28880a45b16880.pg3||
 | 0043 ||                                                             |||
 | 0044 ||                                                             |||
 | 0045 ||                                                             |||
