@@ -32,7 +32,7 @@ Newton：直接找个好code提升效率是我做过最正确的事情！
 | 0021 | MSP430F5529，超声波，距离检测报警，倒车雷达，SR-04模块                       | https://blog.csdn.net/x1131230123/article/details/131689170 |http://dt2.8tupian.net/2/28880a24b16880.pg3|           |
 | 0022 | MSP430F5529单片，万年历，闹钟，数字时钟，温湿度dht11，蜂鸣器音乐                  | https://blog.csdn.net/x1131230123/article/details/131691662 |http://dt3.8tupian.net/2/28880a25b19990.pg3|           |
 | 0023 | max31865模块 PT100测温 PT1000测温 接线说明要点说明 使用说明 程序 单片机          | https://blog.csdn.net/x1131230123/article/details/105446353 |http://dt4.8tupian.net/2/28880a26b26880.pg3|           |
-| 0024 |                                                           |                                                             |                                             |           |
+| 0024 |【STM32单片机】基于语音识别的智能分类垃圾桶，ld3320语音识别模块如何使用，mp3播放模块如何使用|https://blog.csdn.net/x1131230123/article/details/131043983|http://dt4.8tupian.net/2/28880a27b9990.pg3|           |
 | 0025 |                                                           |                                                             |                                             |           |
 | 0026 |                                                           |                                                             |                                             |           |
 | 0027 |                                                           |                                                             |                                             |           |
