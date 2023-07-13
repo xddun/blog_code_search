@@ -32,8 +32,45 @@ Newton：直接找个好code提升效率是我做过最正确的事情！
 | 0021 | MSP430F5529，超声波，距离检测报警，倒车雷达，SR-04模块                       | https://blog.csdn.net/x1131230123/article/details/131689170 |http://dt2.8tupian.net/2/28880a24b16880.pg3|           |
 | 0022 | MSP430F5529单片，万年历，闹钟，数字时钟，温湿度dht11，蜂鸣器音乐                  | https://blog.csdn.net/x1131230123/article/details/131691662 |http://dt3.8tupian.net/2/28880a25b19990.pg3|           |
 | 0023 | max31865模块 PT100测温 PT1000测温 接线说明要点说明 使用说明 程序 单片机          | https://blog.csdn.net/x1131230123/article/details/105446353 |http://dt4.8tupian.net/2/28880a26b26880.pg3|           |
-| 0024 |【STM32单片机】基于语音识别的智能分类垃圾桶，ld3320语音识别模块如何使用，mp3播放模块如何使用|https://blog.csdn.net/x1131230123/article/details/131043983|http://dt4.8tupian.net/2/28880a27b9990.pg3|           |
-| 0025 |                                                           |                                                             |                                             |           |
-| 0026 |                                                           |                                                             |                                             |           |
-| 0027 |                                                           |                                                             |                                             |           |
-
+| 0024 |【STM32单片机】基于语音识别的智能分类垃圾桶，ld3320语音识别模块如何使用，mp3播放模块如何使用| https://blog.csdn.net/x1131230123/article/details/131043983 |http://dt4.8tupian.net/2/28880a27b9990.pg3|           |
+| 0025 |MSP432 P401R 单片机 读取DHT11 串口发送温湿度 OLED显示温湿度 温湿度检测| https://blog.csdn.net/x1131230123/article/details/109269446 |http://dt1.8tupian.net/2/28880a28b9990.pg3|           |
+| 0026 |MSP432 P401R 单片机 读取DS18B20 OLED显示温度| https://blog.csdn.net/x1131230123/article/details/109276758 |http://dt1.8tupian.net/2/28880a29b9990.pg3|           |
+| 0027 |单片机 舵机 SG90 舵机 控制原理 MSP432 单片机| https://blog.csdn.net/x1131230123/article/details/109349542 |http://dt4.8tupian.net/2/28880a30b7000.pg3|           |
+| 0028 |MSP432 P401R 单片机 读取SR-04 超声波模块 串口发送超声波距离 超声波感知| https://blog.csdn.net/x1131230123/article/details/109361148 |http://dt4.8tupian.net/2/28880a31b16800.pg3||
+| 0029 |MSP432 P401R 单片机 RTC 模块实时时间读取 串口发送 RTC 实时时钟| https://blog.csdn.net/x1131230123/article/details/109363357 |http://dt3.8tupian.net/2/28880a32b9990.pg3||
+| 0030 |MSP430 MSP432 TM4C STM32 单片机 推箱子 游戏 12864| https://blog.csdn.net/x1131230123/article/details/109410517 |http://dt1.8tupian.net/2/28880a33b26880.pg3||
+| 0031 |MSP430 MSP432 TM4C STM32 单片机 12864 数字华容道 游戏|https://qq742971636.blog.csdn.net/article/details/109410528|http://dt1.8tupian.net/2/28880a34b26880.pg3||
+| 0032 |MSP430 MSP432 TM4C STM32 单片机 12864 黑白棋 游戏|https://blog.csdn.net/x1131230123/article/details/109410544|http://dt2.8tupian.net/2/28880a35b26880.pg3||
+| 0033 |MSP432 P401R 单片机 矩阵键盘 贪吃蛇 OLED 代码 程序|https://blog.csdn.net/x1131230123/article/details/117756934|http://dt3.8tupian.net/2/28880a36b26880.pg3||
+| 0034 |MSP432 P401R 单片机 程序 TMP421 温度 MSP430F5529 Pocket kit板|https://blog.csdn.net/x1131230123/article/details/117887473|http://dt2.8tupian.net/2/28880a37b9990.pg3||
+| 0035 |MSP432 P401R 单片机 程序 MSP430F5529 Pocket kit板 OPT3001 光照强度 OLED|https://blog.csdn.net/x1131230123/article/details/117935528|	http://dt4.8tupian.net/2/28880a38b9990.pg3||
+| 0036 ||                                                             |||
+| 0037 ||                                                             |||
+| 0038 ||                                                             |||
+| 0039 ||                                                             |||
+| 0040 ||                                                             |||
+| 0041 ||                                                             |||
+| 0042 ||                                                             |||
+| 0043 ||                                                             |||
+| 0044 ||                                                             |||
+| 0045 ||                                                             |||
+| 0046 ||                                                             |||
+| 0047 ||                                                             |||
+| 0048 ||                                                             |||
+| 0049 ||                                                             |||
+| 0050 ||                                                             |||
+| 0051 ||                                                             |||
+| 0052 ||                                                             |||
+| 0053 ||                                                             |||
+| 0054 ||                                                             |||
+| 0055 ||                                                             |||
+| 0056 ||                                                             |||
+| 0057 ||                                                             |||
+| 0058 ||                                                             |||
+| 0059 ||                                                             |||
+| 0060 ||                                                             |||
+| 0061 ||                                                             |||
+| 0062 ||                                                             |||
+| 0063 ||                                                             |||
+| 0064 ||                                                             |||
+| 0065 ||                                                             |||
