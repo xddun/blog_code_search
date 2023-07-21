@@ -64,7 +64,7 @@ Newton：直接找个好code提升效率是我做过最正确的事情！
 | 0042 |MSP430G2553 launchpad 口袋板 口袋实验平台 数字电子日历时钟设计 秒表 闹钟 整点报时 万年历 电子时钟|https://blog.csdn.net/x1131230123/article/details/107321036|http://dt3.8tupian.net/2/28880a45b16880.pg3|                      |
 | 0043 |MSP430F149 单片机 波形发生器 示波器|https://qq742971636.blog.csdn.net/article/details/108430256|http://dt3.8tupian.net/2/28880a46b16880.pg3| 晨启MSP430F149七针OLED作品 |
 | 0044 |【单片机】MSP430F149单片机，晨启，音乐播放器，蜂鸣器音乐|https://blog.csdn.net/x1131230123/article/details/131853429|http://dt3.8tupian.net/2/28880a47b16880.pg3||
-| 0045 |【单片机】MSP430F149单片机，晨启，通信聊天，串口收发器|【单片机】MSP430F149单片机，晨启，通信聊天，串口收发器|http://dt1.8tupian.net/2/28880a48b16880.pg3||
+| 0045 |【单片机】MSP430F149单片机，晨启，通信聊天，串口收发器|https://qq742971636.blog.csdn.net/article/details/131854336|http://dt1.8tupian.net/2/28880a48b16880.pg3||
 | 0046 |||||
 | 0047 |||||
 | 0048 |||||
