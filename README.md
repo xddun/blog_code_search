@@ -75,8 +75,8 @@ Newton：直接找个好code提升效率是我做过最正确的事情！
 | 0044 |【单片机】MSP430F149单片机，晨启，音乐播放器，蜂鸣器音乐|https://blog.csdn.net/x1131230123/article/details/131853429|http://dt3.8tupian.net/2/28880a47b16880.pg3|晨启MSP430F149七针OLED作品|
 | 0045 |【单片机】MSP430F149单片机，晨启，通信聊天，串口收发器|https://qq742971636.blog.csdn.net/article/details/131854336|http://dt1.8tupian.net/2/28880a49b16880.pg3|晨启MSP430F149七针OLED作品|
 | 0046 |【python】基于TK Tkinter pyserial 串口调试助手，支持中英文编码|https://qq742971636.blog.csdn.net/article/details/131899440|	http://dt2.8tupian.net/2/28880a50b1990.pg3	||
-| 0047 |||||
-| 0048 |||||
+| 0047 |【51单片机】晨启科技，酷黑版，音乐播放器|https://qq742971636.blog.csdn.net/article/details/132117887|http://dt1.8tupian.net/2/28880a51b23990.pg3|晨启酷黑板子|
+| 0048 |【51单片机】晨启科技，酷黑版，四位选手抢答器|https://qq742971636.blog.csdn.net/article/details/132115724|http://dt3.8tupian.net/2/28880a52b23990.pg3|晨启酷黑板子|
 | 0049 |||||
 | 0050 |||||
 | 0051 |||||
